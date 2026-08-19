@@ -1,0 +1,11 @@
+symbol,companyName,sector,industry,price,marketCap,beta,volume,exchange,country,currency,ipoDate
+MMM,3M Company,Industrials,Conglomerates,183.185,94472610958,1.08,534011.0,NYSE,US,USD,1946-01-14
+AOS,A. O. Smith Corporation,Industrials,Industrial - Machinery,63.425,8789866479,1.157,380208.0,NYSE,US,USD,1983-09-30
+ABT,Abbott Laboratories,Healthcare,Medical - Devices,115.02,199028689639,0.581,1561004.0,NYSE,US,USD,1980-03-17
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,263.63,465779600027,0.28,1172393.0,NYSE,US,USD,2013-01-02
+ACN,Accenture plc,Technology,Information Technology Services,185.58,113564217709,1.082,1717029.0,NYSE,IE,USD,2001-07-19
+ADBE,Adobe Inc.,Technology,Software - Application,275.2108,109396293000,1.404,1569620.39269,NASDAQ,US,USD,1986-08-13
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,463.88,756402728000,2.489,8405205.0,NASDAQ,US,USD,1972-09-07
+AES,The AES Corporation,Utilities,Diversified Utilities,14.735,10508383130,0.952,1595538.00711,NYSE,US,USD,1991-06-26
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,118.72,60426699200,0.595,617015.0,NYSE,US,USD,1980-03-17
+A,"Agilent Technologies, Inc.",Healthcare,Medical - Diagnostics & Research,153.925,43473346462,1.229,587560.0,NYSE,US,USD,1999-11-18
