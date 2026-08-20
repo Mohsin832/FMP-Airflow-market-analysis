@@ -46,7 +46,7 @@ Wikipedia / FMP API
 ### 1. Clone the project
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FMP-Airflow-market-analysis.git
+git clone https://github.com/Mohsin832/FMP-Airflow-market-analysis.git
 cd FMP-Airflow-market-analysis
 ```
 
